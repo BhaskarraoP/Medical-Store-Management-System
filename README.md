@@ -1,0 +1,2 @@
+# Medical-Store-Management-System
+The Medical store system software is a medicine stock inventory system used in medical store. This software will store details of medicine purchase stock and sell stock. We can maintain purchase stock detail company wise and sell stock detail customer wise. This software will automatically generate bill for every selling stock and generate reports for stock, sell, and customer details.
